@@ -25,7 +25,7 @@ import requests
 
 
 #Escribe aqui tu numero de cuenta. Si tienes dudas consulta el README.md
-numeroDeCuenta = '307240460'
+numeroDeCuenta = '123456789'
 
 
 '''
